@@ -1,17 +1,17 @@
-#This repository contains resources and training information for frontend team.
+# This repository contains resources and training information for frontend team.
 
-##Table of Content
+## Table of Content
 
-###Goals
+### Goals
 The list of expected knowledge and experience gained during studying and training
  - [Theoretical study goals](goals/theoretical.md)
  - [Practical training goals](goals/practical.md)
-###Studying resources
+### Studying resources
  - [JavaScript](theory/javascript.md)
  - [Cascading Style Sheets](theory/css.md)
  - [Git](theory/git.md)
  - [Performance](theory/performance.md)
-###Requirements for practical tasks
+### Requirements for practical tasks
  1. [Preparation for development](requirements/00-preparation.md)
  1. [Header development](requirements/01-header.md)
  1. [Hero development](requirements/02-hero.md)
