@@ -7,7 +7,7 @@
 
 ##Git
 * Learn Git - https://try.github.io/levels/1/challenges/1
-* Setup remote repository on Bitbucket (create an account there, its free) - https://bitbucket.org
+* Setup remote repository on Bitbucket (create an account there, its free) - https://bitbucket.org / https://github.com
 * Study Git workflows - https://www.atlassian.com/git/tutorials/comparing-workflows/
 ##Build tools
 Do not use build tools or local node server, we will introduce these as we go. Start off with static website. For vendor prefixes use Autoprefixer.
