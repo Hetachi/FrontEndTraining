@@ -1,4 +1,4 @@
-This repository contains resources and training information for frontend team.
+#This repository contains resources and training information for frontend team.
 
 ##Table of Content
 
