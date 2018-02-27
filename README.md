@@ -1,7 +1,7 @@
-#Accenture Sitecore division frontend knwoledge base
-This repository contains resources and training information for Accenture Sitecore division frontend team.
+This repository contains resources and training information for frontend team.
 
-##Table of Contents
+##Table of Content
+
 ###Goals
 The list of expected knowledge and experience gained during studying and training
  - [Theoretical study goals](goals/theoretical.md)
