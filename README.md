@@ -8,11 +8,15 @@ First step to prepare for developments.
  1. [Preparation for Development](requirements/00-preparation.md)
 
 Setting up your project in order to correctly start creating HTML5 markup and CSS.
- 1. [Header Dvelopment](requirements/01-header.md)
+ 2. [Header Development](requirements/01-header.md)
+
+Guides for good markup.
+ 3. [Markup Development](requirements/02-markup.md)
 
 ### Starting Development
 Guidelines for navigation creation
 1. [Menu Development](guides/01-menu.md)
+
 Guidelines for hero carousel creation
 2. [Hero carousel Development](guides/02-hero.md)
 
