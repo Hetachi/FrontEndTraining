@@ -30,3 +30,8 @@ The list of expected knowledge and experience gained during studying and trainin
  - [Cascading Style Sheets](theory/css.md)
  - [Git](theory/git.md)
  - [Performance](theory/performance.md)
+
+### Games
+
+ - [FlexBox Froggy](http://flexboxfroggy.com/)
+ - [CSSGridGarden](http://cssgridgarden.com/)

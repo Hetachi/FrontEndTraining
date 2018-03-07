@@ -22,7 +22,7 @@ Do not use build tools or local node server, we will introduce these as we go. S
 * Study about EditorConfig - http://editorconfig.org/
 * Create and configure .editorconfig file
 * Study Airbnb CSS / Sass Styleguide - https://github.com/airbnb/css
-* Study BEM for CSS
+* Study [BEM](http://getbem.com/introduction/) for CSS 
 
 # General directions
 
