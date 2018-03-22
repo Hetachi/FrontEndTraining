@@ -12,22 +12,23 @@ Setting up your project in order to correctly start creating HTML5 markup and CS
 
  2. [Header Development](requirements/01-header.md)
 
+### Starting Development
+
 Guides for good markup.
 
- 3. [Markup Development](requirements/02-markup.md)
+1. [Markup Development](guides/02-markup.md)
 
-### Starting Development
 Overall css to display mobile version of the webpage
 
-1. [Overall CSS markup](guides/00-css.md)
+2. [Overall CSS markup](guides/00-css.md)
 
 Guidelines for navigation creation
 
-2. [Menu Development](guides/01-menu.md)
+3. [Menu Development](guides/01-menu.md)
 
 Guidelines for hero carousel creation
 
-3. [Hero carousel Development](guides/02-hero.md)
+4. [Hero carousel Development](guides/02-hero.md)
 
 ### Goals
 The list of expected knowledge and experience gained during studying and training
