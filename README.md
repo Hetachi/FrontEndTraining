@@ -10,7 +10,7 @@ First step to prepare for developments.
 
 Setting up your project in order to correctly start creating HTML5 markup and CSS.
 
- 2. [Header Development](requirements/01-header.md)
+ 2. [Pre-Development Requirements](requirements/01-header.md)
 
 ### Starting Development
 
