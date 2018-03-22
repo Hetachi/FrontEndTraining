@@ -22,9 +22,11 @@ Overall css to display mobile version of the webpage
 1. [Overall CSS markup](guides/00-css.md)
 
 Guidelines for navigation creation
+
 2. [Menu Development](guides/01-menu.md)
 
 Guidelines for hero carousel creation
+
 3. [Hero carousel Development](guides/02-hero.md)
 
 ### Goals
