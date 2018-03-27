@@ -22,8 +22,23 @@
 * Unit Tests
     * ["Introduction To JavaScript Unit Testing"](https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/)
 
+# React resources
 
-    
+* Webpack
+  * [What is webpack and it's concepts](https://webpack.js.org/concepts/)
+* Babel JSX and React
+  * [Babel preset and react](https://babeljs.io/docs/plugins/preset-react/)
+* ReactJS, JSX, Testing
+  * [JSX](https://reactjs.org/docs/introducing-jsx.html)
+  * [Installing ReactJS as new project](https://reactjs.org/docs/add-react-to-a-new-app.html)
+  * [Installing ReactJS into existing project](https://reactjs.org/docs/add-react-to-an-existing-app.html)
+* React components
+  * [Components and props](https://reactjs.org/docs/components-and-props.html)
+  * [Web components](https://reactjs.org/docs/web-components.html)
+* PropTypes
+  * [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+
+
 ##Online articles
 
 * ["Details of the object model"](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)

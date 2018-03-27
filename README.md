@@ -13,7 +13,7 @@ Below are lists of expected knowledge and experience gained during the training 
   - [Git](theory/git.md)
   - [Performance](theory/performance.md)
 
-### Games
+##### Games
 
   - [FlexBox Froggy](http://flexboxfroggy.com/)
   - [CSSGridGarden](http://cssgridgarden.com/)
