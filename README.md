@@ -2,6 +2,11 @@
 
 ## Table of Content
 
+### Goals
+Below are lists of expected knowledge and experience gained during the training and studying.
+ - [Theoretical study goals](goals/theoretical.md)
+ - [Practical training goals](goals/practical.md)
+
 ### Requirements for practical tasks
 
 First step to prepare for developments.
@@ -29,11 +34,6 @@ Guidelines for navigation creation
 Guidelines for hero carousel creation
 
 4. [Hero carousel Development](guides/02-hero.md)
-
-### Goals
-The list of expected knowledge and experience gained during studying and training
- - [Theoretical study goals](goals/theoretical.md)
- - [Practical training goals](goals/practical.md)
 
 ### Studying resources
  - [JavaScript](theory/javascript.md)

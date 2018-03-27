@@ -1,4 +1,4 @@
-#Theoretical study goals for JavaScript
+# Theoretical study goals for JavaScript
 It is expected to have a good theoretical knowledge on the following JavaScript topics:
 
 * Events
@@ -19,11 +19,11 @@ It is expected to have a good theoretical knowledge on the following JavaScript 
     * Promises
 * Pure functions
 * Function declaration vs expression
-    * Function declaration hoisting 
-* Unerstanding of "this"
+    * Function declaration hoisting
+* Understanding of "this"
     * Apply, call, bind methods
 * Object model
-    * Prototypal inheritence
+    * Prototypal inheritance
     * Prototype vs Class
     * Hierarchy model
 * Value/type coercion
@@ -32,7 +32,7 @@ It is expected to have a good theoretical knowledge on the following JavaScript 
     * If statement
     * Null, Undefined, Empty check
     * Assignment operators
-    * Comparision return
+    * Comparison return
     * Function calling
     * Switch statement
 * JavaScript Design Patterns
@@ -40,7 +40,7 @@ It is expected to have a good theoretical knowledge on the following JavaScript 
 * Application namespacing
 * Unit tests
 
-#Theoretical study goals for Cascading Style Sheets
+# Theoretical study goals for Cascading Style Sheets
 It is expected to have a good theoretical knowledge on the following Cascading Style Sheets topics:
 
 * Document flow
@@ -55,11 +55,11 @@ It is expected to have a good theoretical knowledge on the following Cascading S
 * Flexbox
 * Stacking context
 
-#Theoretical study goals for website performance
+# Theoretical study goals for website performance
 It is expected to have a good theoretical knowledge on the following website performance topics:
 
 * HTTP request impact on performance
     * How browsers download resources
 * Impact of position of scripts and stylesheets in the markup of the website
-* Minifaction and gzipping
+* Minification and gzipping
 * CDNs
