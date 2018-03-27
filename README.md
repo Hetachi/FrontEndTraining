@@ -18,7 +18,7 @@ Below are lists of expected knowledge and experience gained during the training 
   - [FlexBox Froggy](http://flexboxfroggy.com/)
   - [CSSGridGarden](http://cssgridgarden.com/)
 
-## Requirements for practical tasks
+##  1. Requirements for practical tasks
 
 First step to prepare for developments.
 
@@ -28,7 +28,7 @@ Setting up your project in order to correctly start creating HTML5 markup and CS
 
  2. [Pre-Development Requirements](requirements/01-header.md)
 
-## Development
+##  2. Development of Renome
 
 Guides for good markup, and how to write it.
 
@@ -46,7 +46,8 @@ Guidelines for hero carousel creation
 
 4. [Hero carousel Development](guides/02-hero.md)
 
-## Introducing ReactJS to project
+## 3. Introducing ReactJS to project
 
 Guidelines for installing ReactJS
-[ReactJS and JSX](guides/03-reactjs.md)
+
+1. [ReactJS and JSX](guides/03-reactjs.md)
