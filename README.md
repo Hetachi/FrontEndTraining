@@ -28,7 +28,7 @@ Setting up your project in order to correctly start creating HTML5 markup and CS
 
  2. [Pre-Development Requirements](requirements/01-header.md)
 
-## Starting Development
+## Development
 
 Guides for good markup, and how to write it.
 
@@ -45,3 +45,8 @@ Guidelines before starting to create navigation.
 Guidelines for hero carousel creation
 
 4. [Hero carousel Development](guides/02-hero.md)
+
+## Introducing ReactJS to project
+
+Guidelines for installing ReactJS
+[ReactJS and JSX](guides/03-reactjs.md)
