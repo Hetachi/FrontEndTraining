@@ -1,5 +1,5 @@
 #Cascading Style Sheets resources  
- 
+
 * Stacking Contexts
     * [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
     * [Understanding CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
@@ -19,7 +19,7 @@
     * ["Using CSS flexible boxes"](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
     * ["Flexbox froggy"](http://flexboxfroggy.com/)
 * Best practices
-    * [Writing efficient CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS)
+    * [Writing efficient CSS](https://developer.mozilla.org/en-US/docs/CSS/Writing_Efficient_CSS?redirect=no)
 * Selectors
     * ["The 30 CSS Selectors You Must Memorize"](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * Block, Element, Modifier (BEM)
