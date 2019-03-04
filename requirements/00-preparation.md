@@ -1,6 +1,6 @@
 # Non-functional requirements
 
-* Website should work on IE11 and all evergreen browsers.
+* Website should work on all evergreen browsers.
     * Use polyfills when feature not supported by browser.
 
 # Setup environment
