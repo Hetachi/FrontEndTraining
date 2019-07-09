@@ -1,6 +1,6 @@
 ## HTML Markup
 
-* Use BEM from [preparation](00-preparation)
+* Use BEM from [preparation](/requirements/00-preparation.md)
 * When writing markup use HTML5 tags!
 * Use [Lorem Ipsum](https://www.lipsum.com/) for initial fillers
 
