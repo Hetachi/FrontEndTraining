@@ -11,7 +11,7 @@
 * Study Git workflows - https://www.atlassian.com/git/tutorials/comparing-workflows/
 ## Build tools
 Do not use build tools or local node server, we will introduce these as we go. Start off with static website. For vendor prefixes use Autoprefixer.
-* Use [Autoprefixer](https://github.com/postcss/autoprefixer) for CSS, run it with NPM - ["How to use NPM as a build tool"](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+* Use [Autoprefixer](https://github.com/postcss/autoprefixer) for CSS, run it with NPM - ["How to use NPM as a build tool"](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 
 ## Code styles and code editor configuration
 
