@@ -10,9 +10,7 @@
 * Setup remote repository on Bitbucket (create an account there, its free) - https://bitbucket.org / https://github.com
 * Study Git workflows - https://www.atlassian.com/git/tutorials/comparing-workflows/
 * Git branch naming convention:
-   features - "feature/task-id-task-name" (For new features)
-   bugfix - "bugfix/task-id-task-name" (For fixing bugs)
-   refactor - "refactor/task-id-task-name" (For updating or changing already existing features)
+   ** features - "feature/task-id-task-name" (For new features)
 
 ## Build tools
 Do not use build tools or local node server, we will introduce these as we go. Start off with static website. For vendor prefixes use Autoprefixer.
