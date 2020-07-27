@@ -4,6 +4,11 @@
     * Use polyfills when feature not supported by browser.
 
 # Setup environment
+## Trello / Asana / Jira
+* Read about what is [Jira] (https://www.atlassian.com/software/jira/guides/use-cases/what-is-jira-used-for)
+* Wathc a video about [Agile] (https://www.youtube.com/watch?v=Z9QbYZh1YXY)
+* Create a [Trello](http://trello.com/) / [Asana](http://asana.com/) account and a board.
+* Add teammates to the board for task reviews.
 
 ## Git
 * Learn Git - https://try.github.io/levels/1/challenges/1
