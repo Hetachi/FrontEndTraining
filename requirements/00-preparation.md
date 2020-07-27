@@ -35,7 +35,7 @@ Do not use build tools or local node server, we will introduce these as we go. S
 
 # General directions
 
-* Download Images ["Renome" theme](visuals/Renome Template) from this repository (© Veaceslav Burian - https://www.behance.net/gallery/35481315/Renome-Free-PSD-Restaurant-Template)
+* Download Images ["Renome" theme](visuals/Renome Template/!!!Mobile/One Page/) from this repository (© Veaceslav Burian - https://www.behance.net/gallery/35481315/Renome-Free-PSD-Restaurant-Template)
 * Use "Single Page/home.jpeg" file from archive  
 * Get familiar with the design, try to find common blocks and measures (margins, paddings, font sizes etc.)
 * Use Trello or Asana to define and estimate your tasks and to keep track of the progress - https://trello.com/, https://asana.com/
