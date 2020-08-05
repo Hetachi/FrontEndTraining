@@ -50,7 +50,7 @@
 * ["JavaScript’s Apply, Call, and Bind Methods are Essential for JavaScript Professionals"](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 * ["Let’s Learn JavaScript Closures"](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.b9rfkjrlo)
 * ["Demystifying JavaScript Closures, Callbacks and IIFEs"](http://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/)
-* ["How to add DOM Events Listeners"](https://www.webreflection.co.uk/blog/2015/10/22/how-to-add-dom-events-listeners)
+* ["How to add DOM Events Listeners"](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 * ["FLIP Your Animations"](https://aerotwist.com/blog/flip-your-animations/)
 * ["Repaints and Reflows: Manipulating the DOM responsibly"](http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom)
 * ["Smart Tabs" indenting code with tabs and spaces](https://www.emacswiki.org/emacs/SmartTabs)
